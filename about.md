@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email](mail-to:satyamvats5@gmail.com)
+[satyamvats5@gmail.com](mailto:satyamvats5@gmail.com)
